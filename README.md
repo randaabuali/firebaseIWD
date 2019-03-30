@@ -1,10 +1,8 @@
-# [Start Bootstrap - Bare](https://startbootstrap.com/template-overviews/bare/)
-
 # [Firebase - IWD19 by WTM Abu Dhabi](https://www.meetup.com/GDG-AbuDhabi/events/259196417/)
 
-#Download
+# Download
 * Clone the repo: git clone https://github.com/randaabuali/firebaseIWD.git
 * or Download it
 
-#Template
+# Template
 * This Template is taken from https://startbootstrap.com
